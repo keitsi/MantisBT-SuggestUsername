@@ -9,6 +9,7 @@ This MantisBT plugin uses jQuery TagsInput plugin: https://github.com/xoxco/jQue
 |v1.3.0          |v0.1          |
 |v2.0.0          |v0.2          |
 |v2.2.0          |v0.4          |
+|v.26.3          |v0.5          |
 
 # Prerequisite
 * MantisBT-jQueryUI plugin (https://github.com/mantisbt-plugins/jQuery-UI) `Note: must download from master brance`
