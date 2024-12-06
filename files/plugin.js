@@ -1,4 +1,4 @@
-$('#bug_monitor_list_username').tagsInput({
+$('#bug_monitor_list_user_to_add').tagsInput({
 	'autocomplete_url': 'plugin.php?page=SuggestUsername/search',
 	'height': 'auto',
     'width': '50%',
@@ -6,4 +6,4 @@ $('#bug_monitor_list_username').tagsInput({
 	'defaultText':'',
 	'minChars': '3',
 });
-$('#bug_monitor_list_username').css('visibility', 'hidden');
+$('#bug_monitor_list_user_to_add').css('visibility', 'hidden');
