@@ -11,7 +11,7 @@ This MantisBT plugin uses jQuery TagsInput plugin: https://github.com/xoxco/jQue
 |v2.2.0          |v0.4          |
 
 # Prerequisite
-* MantisBT-jQueryUI plugin (https://github.com/mantisbt-plugins/jQuery-UI)
+* MantisBT-jQueryUI plugin (https://github.com/mantisbt-plugins/jQuery-UI) `Note: must download from master brance`
 
 # Installation Steps
 1. Install jQueryUI plugin
